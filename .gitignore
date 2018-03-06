@@ -1,3 +1,4 @@
 *.hi
 *.o
-test
+test_out
+bin
